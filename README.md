@@ -15,7 +15,7 @@ Some of my attributes:
 
 - 🕒 Discipline is very important to me
 - 📖 Learning is my passion
-- 🌱 I’m currently learning React Framework as part of my Full stack Web developer journey.
+- 🌱 I’m currently learning React Framework as part of my Full MERN stack Web developer journey.
 - 📚 Philosophical mindset
 - 🍵 Sophisticated behavior
 - 🛣️ Love to travel but Alone
