@@ -1,5 +1,29 @@
-# 💫 About Me:
-I am a Software Developer | Frontend Developer | Computer Hardware expert | Tech enthusiast, from Hyderabad, Andra Pradesh, India.<br><br>I am Constantly fascinated by the latest advancements in the Tech field. With an insatiable curiosity, I thrive on learning and expanding my knowledge base.<br><br>In addition to my love for Technology, I am a passionate traveler. Exploring new cultures and embracing different experiences fuels my creativity and problem-solving abilities.<br><br>Driven by my innate curiosity, I approach challenges with a mindset of continuous growth and discovery. I am eager to contribute my skills and passion to the dynamic world of Tech.<br><br>Some of my attributes:<br><br>🕒 Discipline is very important to me<br>📖 Learning is my passion<br>🌱 I’m currently learning React Framework as part of my Full MERN stack Web developer journey.<br>📚 Philosophical mindset<br>🍵 Sophisticated behavior<br>🛣️ Love to travel but Alone<br>⚡ Fun fact about me: I love to Debate but hate to Argue, always appreciate intellectual conversations.
+# 👋 Hey, I’m Shiva Pandey  
+
+I’m an **AI Engineer & Web Developer** passionate about building applications where **AI meets modern web technologies**. For me, development is not just about solving problems — it’s about exploring ideas and transforming them into **intelligent, interactive, and accessible experiences**.  
+
+---
+
+## 🚀 What I Do  
+- 🤖 Build **AI-integrated tools and RAG-based systems** that combine intelligence with usability.  
+- 🌐 Develop **scalable web apps** using **Next.js, React, Tailwind CSS, and Appwrite**.  
+- 🎮 Experiment with creative projects like **multiplayer games, AI Q&A platforms, and resume automation tools**.  
+- 🔬 Constantly explore the intersection of **AI, philosophy, and human potential**.  
+
+---
+
+## 🏆 Highlights  
+- Organized and participated in multiple **hackathons** (including **HackDiwas**), gaining hands-on experience in innovating under pressure and delivering impactful solutions.  
+- Built **AI-powered interview tools, resume evaluators, and knowledge systems** that showcase my ability to merge **AI + Web Development** effectively.  
+- Strong background in **computer hardware** with a love for tinkering and experimenting.  
+
+---
+
+## 🌱 Core Beliefs  
+- 🕒 Discipline and consistency fuel growth.  
+- 📖 Learning is a lifelong journey.  
+- 🌌 Technology is a pathway to **collective knowledge and progress**.  
+- ⚡ I love meaningful debates, new perspectives, and ideas that challenge the way we think. 
 
 
 ## 🌐 Socials:
