@@ -25,7 +25,7 @@ An **AI Engineer & Web Developer** passionate about building applications where 
 - 🌌 Technology is a pathway to **collective knowledge and progress**.  
 - ⚡ I love meaningful debates, new perspectives, and ideas that challenge the way we think. 
 
-
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shiva-pandey-dev) 
