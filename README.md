@@ -6,7 +6,7 @@ An **AI Engineer & Web Developer** passionate about building applications where 
 
 ## 🚀 What I Do  
 - 🤖 Build **AI-integrated tools and RAG-based systems with Modern and sleek Web Apps** that combine intelligence with usability.  
-- 🌐 Develop **scalable web apps** using **Next.js, React, Tailwind CSS, and Appwrite**.  
+- 🌐 Develop **scalable web apps** using **Next.js, React, Tailwind CSS, and Node JS**.  
 - 🎮 Experiment with creative projects like **Personal AI assistants, AI Q&A platforms, and AI automation tools**.  
 - 🔬 Constantly explore the intersection of **AI, philosophy, and human potential**.  
 
