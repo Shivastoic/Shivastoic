@@ -1,21 +1,21 @@
 # 👋 Hey, I’m Shiva Pandey  
 
-I’m an **AI Engineer & Web Developer** passionate about building applications where **AI meets modern web technologies**. For me, development is not just about solving problems — it’s about exploring ideas and transforming them into **intelligent, interactive, and accessible experiences**.  
+An **AI Engineer & Web Developer** passionate about building applications where **AI meets modern web technologies**. For me, development is not just about solving problems — it’s about exploring ideas and transforming them into **intelligent, interactive, and accessible experiences**.  
 
 ---
 
 ## 🚀 What I Do  
-- 🤖 Build **AI-integrated tools and RAG-based systems** that combine intelligence with usability.  
+- 🤖 Build **AI-integrated tools and RAG-based systems with Modern and sleek Web Apps** that combine intelligence with usability.  
 - 🌐 Develop **scalable web apps** using **Next.js, React, Tailwind CSS, and Appwrite**.  
-- 🎮 Experiment with creative projects like **multiplayer games, AI Q&A platforms, and resume automation tools**.  
+- 🎮 Experiment with creative projects like **Personal AI assistants, AI Q&A platforms, and AI automation tools**.  
 - 🔬 Constantly explore the intersection of **AI, philosophy, and human potential**.  
 
 ---
 
 ## 🏆 Highlights  
-- Organized and participated in multiple **hackathons** (including **HackDiwas**), gaining hands-on experience in innovating under pressure and delivering impactful solutions.  
-- Built **AI-powered interview tools, resume evaluators, and knowledge systems** that showcase my ability to merge **AI + Web Development** effectively.  
-- Strong background in **computer hardware** with a love for tinkering and experimenting.  
+- Participated and won in multiple **hackathons** and also Organized several Hackathons (including **HackDiwas**), gaining hands-on experience in innovating under pressure and delivering impactful solutions.  
+- Built **AI-powered tools, Beautiful Frontend Web Apps, and RAG systems** that showcase my ability to merge **AI + Web Development** effectively.  
+- Strong background in **computer science** with a love for tinkering and experimenting.  
 
 ---
 
